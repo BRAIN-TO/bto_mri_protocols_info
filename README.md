@@ -5,10 +5,20 @@ Please refer the article titled, [Advancing Clinical and Neuroscientific Researc
 
 ![](misc/fig/MAGNETOM_Flash_Figure_2.png)
 
+#### Download Links for BRAIN-TO Protocols
+1. Complete Set <br /> [https://zenodo.org/records/10685481](https://zenodo.org/records/10685481)
+
+2. Anatomy Set <br /> [https://zenodo.org/records/10685475](https://zenodo.org/records/10685475)
+
+3. fMRI Set <br /> [https://zenodo.org/records/10685458](https://zenodo.org/records/10685458)
+
+4. Diffusion Set <br /> [https://zenodo.org/records/10685449](https://zenodo.org/records/10685449)
+
+5. ASL Set <br /> [https://zenodo.org/records/10685308](https://zenodo.org/records/10685308)
 
 #### This repository is being updated steadily and include the following 
-1. Zenodo links for XA30 exar1 files.
-2. Zenodo links for Protocol PDFs (for translating to other Prisma software versions).
+1. ~~Zenodo links for XA30 exar1 files~~
+2. ~~Zenodo links for Protocol PDFs (for translating to other Prisma software versions)~~
 3. Wiki with recommended pipelines and tools
 4. Adding scripts and example code for processing data
 
